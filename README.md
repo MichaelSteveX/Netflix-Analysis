@@ -45,4 +45,4 @@ This project demonstrates data analysis, visualization, and storytelling skills.
 * Dynamic Dashboard Controls
 
 ## Dashboard Preview
-<img width="471" height="245" alt="image" src="https://github.com/user-attachments/assets/83bf9a14-e15b-4e6d-9641-6f48f0d2fbd2" />
+![Dashboard Preview]<img width="471" height="245" alt="image" src="https://github.com/user-attachments/assets/83bf9a14-e15b-4e6d-9641-6f48f0d2fbd2" />
